@@ -1,0 +1,1 @@
+This is a test for using the package wordcloud. The code will generate a wordcloud using the text from this file. Put your own text in this file to generate a brain filled with your own words. I hope this is useful. Feel free to contact me if you have any questions. That's quite fun isn't it?
